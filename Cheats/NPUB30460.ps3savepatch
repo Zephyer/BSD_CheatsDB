@@ -1,0 +1,12 @@
+; NPUB30460
+; SEGA Vintage Collection: Comix Zone
+; Checksum by Wildfire
+
+:PAYLOAD
+
+[Update CRC32 for PAYLOAD (Required)]
+;set range:0x000004,0x0002BB
+set pointer:eof+1
+set range:0x000004,pointer
+set [hash]:CRC32
+write at 0x000000:[hash]

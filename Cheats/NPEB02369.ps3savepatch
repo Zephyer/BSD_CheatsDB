@@ -1,0 +1,69 @@
+; NPEB02369
+; GTA San Andreas
+
+[Car in El Corona Property Modifier 1]
+000113E9 000000XX
+
+0x01      bulletproof
+0x02      fireproof
+0x04      explosion proof
+0x08      collision proof
+0x10      melee proof
+0x20      bass boost
+0x40      hydraulics
+0x80      nitrous flag
+
+[Identity of Vehicle #1 in El Corona Garage]
+000113EB 000000XX
+000113EC 000000XX
+
+[Identity of Vehicle #1 in El Corona Garage is Tenpenny's Firetruck w/Immunities]
+000113EB 00000020
+000113EC 00000002
+000113E9 0000001F
+
+[Number of times Nitros can be used in that car]
+00011414 000000XX
+
+[Car in Verdant Meadows Hangar Property Modifier #1]
+00011629 0000001F
+
+[Identity of Vehicle #1 in Verdant Meadows Hangar]
+0001162B 000000XX
+0001162C 000000XX
+
+[Doherty Garage Car Property Modifier Slot 1]
+0001147F 000000XX
+
+[Doherty Garage Car Property Modifier Slot 2]
+0001197F 000000XX
+
+[Doherty Garage Car Property Modifier Slot 3]
+00011E7F 000000XX
+
+[Identity of Car in Doherty Garage Slot 1]
+00011481 000000XX
+00011482 000000XX
+
+[Identity of Car in Doherty Garage Slot 2]
+00011981 000000XX
+00011982 000000XX
+
+[Identity of Car in Doherty Garage Slot 3]
+00011E81 000000XX
+00011E82 000000XX
+
+[Disable the flag for "Losing Weapons after being busted"]
+000133D9 00000000
+
+[All 50 Snapshots Taken]
+000218C7 00000032
+
+[All 50 Horseshoes Found]
+000218EF 00000032
+
+[All 50 Oysters Found]
+000218F7 00000032
+
+[All 100 Tags Sprayed]
+00000E3D 00000064

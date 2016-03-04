@@ -1,0 +1,10 @@
+; BLES02040
+; RESIDENT EVIL REVELATIONS 2
+
+; codes by h0rr0r0
+
+:DATA0.DAT
+
+[Unlock all bonus weapons + inf.ammo (Rewards)]
+10000E0A 00000FFF
+

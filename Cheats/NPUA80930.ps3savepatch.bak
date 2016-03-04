@@ -1,0 +1,20 @@
+; NPUA80930
+; HELLDIVERS
+
+; by Krustytoe
+
+:DATA.SAV
+[Decompress DATA.SAV (Required)]
+Decompress DATA.SAV
+
+:~extracted\00000018.dat
+[Max ?? Points]
+80010010 6974656D
+5F757067 72616465
+73000000 00000000
+28000014 22222222
+28000018 88880000
+
+:DATA.SAV
+[Compress DATA.SAV (Required)]
+Compress DATA.SAV,-w 15
